@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BurningCal</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="how_active_you_are">How active you are</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="goal">Goal</string>
+    <string name="height">Height</string>
+    <string name="dob">Date of Birth</string>
+    <string name="enter_desire_number_of_steps">Enter desire number of steps</string>
+    <string name="enter_your_weight">Enter your weight</string>
+    <string name="enter_your_height">Enter your height</string>
+    <string name="weight">Weight</string>
+    <string name="other">Other</string>
+    <string-array name="exercise_array">
+        <item>Frequently</item>
+        <item>3 days in week</item>
+        <item>1 day in week</item>
+        <item>no exercise</item>
+    </string-array>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
